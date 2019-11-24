@@ -1,23 +1,10 @@
-# Adding awesomeness
-
-![](./saltbae.png)
-
-### Enhancing a basic Gatsby project
+# Improving yor Development eXperience
+<img id="cover-image" src="./images/giant-swiss-army-knife.jpg" />
 
 ---
-# How to make your Babushka proud of you?
+# Intro
 
-![](./babushka-meme-1.png)
+Recently I discovered a `DX` term - which means Development eXpirience. 
+This all is about the stuff behind the code you're writing: physical and software environment, tooling and so on.
 
----
-# How to make your Babushka proud of you?
-At least:
-* Enable **TypeScript**
-* Add **SASS** support
-* Add **Storybook** (must have for complex UIs or designs)
-
---- 
-# How to make your Babushka proud of you?
-
-![Increase awesomeness](./babushka-meme-2.png)
-
+I was fascinated by this term, and pleasantly surprised because I've been collecting such tips/tricks/notes and environment adjustments for some time.
