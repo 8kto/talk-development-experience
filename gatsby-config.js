@@ -1,9 +1,9 @@
 module.exports = {
-  pathPrefix: "/gatsby-mini-talk",
+  pathPrefix: "/dx-talk",
   siteMetadata: {
     name: `Igor Ivlev`,
-    title: `Adding Awesomeness — Gatsby Mini Talk`,
-    date: `May 7, 2019`,
+    title: `Improving yor Development eXperience — Talk`,
+    date: `November, 2019`,
   },
   plugins: [
     `gatsby-plugin-layout`,
