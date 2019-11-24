@@ -31,5 +31,4 @@ From the above I can say with confidence: Ubuntu + Gnome just works :D
   alt="Ubuntu" 
 />
 
-
 It is stable, there are tons of software/packages, it is easy to use and configure.
