@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 
 export default ({ data, transition }) => (
-  <div className="slideItem">
+  <div className="slideItem" id={`slide-id-${data.slide.index}`}>
     <div
       style={transition && transition.style}
       dangerouslySetInnerHTML={{ __html: data.slide.html }}
