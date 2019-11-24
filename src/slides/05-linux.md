@@ -65,7 +65,9 @@ These kids help you with versioning and stuff:
 + `generate-changelog.sh`
 
 ---
-`bump-module-version.sh`  Used for bumping versions in desired file (__1.4 => 1.5__, __1.4 => 2__ and so on). Uses [bumpversion](https://pypi.org/project/bumpversion/) under the hood.
+`bump-module-version.sh`  Used for bumping versions in desired file (__1.4 => 1.5__, __1.4 => 2__ and so on). 
+
+Uses [bumpversion](https://pypi.org/project/bumpversion/) under the hood.
 
 *Demonstration*
 
