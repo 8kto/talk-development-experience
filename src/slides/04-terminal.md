@@ -1,7 +1,7 @@
 # Terminal
 <p>
 I use `Terminator` instead of native Ubuntu's one because it brings you an ability to split a single tab into several screens/splits. 
-It saves screen space and decreases an amount of additional steps for switching tabs/windows — therefore it saves your nervous energy 😎.
+It saves screen space and decreases an amount of additional steps for switching tabs/windows — therefore it saves your nervous energy 😎
 </p>
 <img 
   src="./images/terminator.png" 
