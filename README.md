@@ -1,20 +1,29 @@
-# Adding Awesomeness — Gatsby Mini Talk
-Enhancing a basic Gatsby project with TypeScript, SCSS, Storybook.
+# Improving yor Development eXperience
+Recently I discovered a `DX` term - which means Development eXpirience. 
+This all is about the stuff behind the code you're writing: physical and software environment, tooling and so on.
+
+I was fascinated by this term, and pleasantly surprised because I've been collecting such tips/tricks/notes and environment adjustments for some time.
+
+I'm going to share with you this gold reserve I accumulated and which I apply on every computers and OS I'm going to work with. My talk is about configuring your environment, as OS, terminal, profile, IDE. It also contains some tips and notes about useful hotkeys, which are **must-known**, I believe. I will skip the tips about hardware and healthy lifestyle because I'm not your fitness instructor and spiritual teacher ;)
+
+All the snippets are available on my GitHub repo: [https://github.com/8kto/dev-scritps](https://github.com/8kto/dev-scritps/).
+
 
 ## Demo
-Check [presentation](https://8kto.github.io/gatsby-mini-talk) deployed to GitHub Pages.
+TODO
+Check [presentation slides]() deployed to GitHub Pages.
 
-[How to add Gatsby project deployment to GitHub](https://www.gatsbyjs.org/docs/how-gatsby-works-with-github-pages/).
 
 ## Install
 ```sh
 # Clone the repo
-git clone git@github.com:8kto/gatsby-mini-talk.git
+git clone git@github.com:8kto/talk-development-experience.git
 
 # Install dependencies
-cd gatsby-mini-talk/
+cd talk-development-experience/
 yarn 
 ```
+
 
 ## Run
 ```sh
