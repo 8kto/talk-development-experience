@@ -6,8 +6,8 @@
 />
 
 --- 
-Bare installation looks very simple. Though it is already ready to use, we could enhance it with its native file explorer and some other adjustments.
-+ [Configuration](https://github.com/8kto/dev-scritps/blob/master/env/vim/vimrc.md)
+# Configuration
+Bare installation looks very simple. Though it is already ready-to-use, we could enhance it with its native file explorer and some [other adjustments](https://github.com/8kto/dev-scritps/blob/master/env/vim/vimrc.md).
 
 <img 
   src="./images/vim-enhanced.png" 
@@ -16,10 +16,12 @@ Bare installation looks very simple. Though it is already ready to use, we could
 
 
 ---
+# Hotkeys
 First of all, you have to learn a single command to quit it ;)
-+ [Hotkeys](https://github.com/8kto/dev-scritps/blob/master/hotkeys/vim.md) 
 
 <img 
   src="./images/meme-vim.jpeg" 
   alt="" 
 />
+
+[List of the must-know commands](https://github.com/8kto/dev-scritps/blob/master/hotkeys/vim.md)
