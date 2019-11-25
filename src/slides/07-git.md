@@ -67,7 +67,7 @@ Use [git-cz](https://github.com/commitizen/cz-cli) tool for maintaining semantic
 ---
 # How it works
 <video controls autoplay>
-  <source src="./video/semantic-commits.mkv" type="video/mp4">
+  <source src="semantic-commits.mkv" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
