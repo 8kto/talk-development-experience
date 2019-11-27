@@ -32,3 +32,7 @@ I was fascinated by this term, and pleasantly surprised because I've been collec
 ---
 # Sources
 All the snippets are available on my GitHub repo: [https://github.com/8kto/dev-scritps](https://github.com/8kto/dev-scritps/).
+
+```
+git clone git@github.com:8kto/dev-scritps.git
+```

@@ -43,8 +43,6 @@ Check [https://githooks.com](https://githooks.com) for more info.
 # Git hook example: 
 [Add a ticket no in the commit message](https://github.com/8kto/dev-scritps/blob/master/bash/git/hooks/prepare-commit-msg)
 
-TODO Add hooks demo with `husky`
-
 
 ---
 # Committing code
@@ -56,12 +54,6 @@ Why `vim` on commit:
 ---
 Another small script eases tedious committing of not-so-important files. 
 + [Script for committing snaps etc.](https://github.com/8kto/dev-scritps/blob/master/bash/git/commit-test-artifacts.sh)
-
-
----
-# Semantic commits
-Use [git-cz](https://github.com/commitizen/cz-cli) tool for maintaining semantic versioning/releases of your project.
-+ Semantic commits messages: see [Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) by Angular team for understanding how it looks like.
 
 
 ---

@@ -1,5 +1,5 @@
 # Vim
-<p>Next, let's talk about CLI editor `vim`.</p>
+Next, let's talk about CLI editor `vim`
 <img 
   src="./images/okto-cthulhu.jpg" 
   alt="" 

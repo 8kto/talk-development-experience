@@ -29,7 +29,7 @@ Another way of searching your history is to use `CTRL+R`, which essentially perf
 # Shell 🐚
 + [Misc tunings in profile files](https://github.com/8kto/dev-scritps/blob/master/env/tunings.md)
 + [Install `z` util for quick navigation](https://github.com/rupa/z/blob/master/README#L48)
-+ [Some advanced shell commands](https://github.com/8kto/dev-scritps/blob/master/bash/useful-commands.sh) — not really for every-day using, but still applicable🐚🐚
++ [Some advanced shell commands](https://github.com/8kto/dev-scritps/blob/master/bash/useful-commands.sh) — not really for every-day using, but still useful
 
 *Demonstration*
 
@@ -60,14 +60,24 @@ db
 
 ---
 # Versions
-These kids help you with versioning and stuff:
+These kids wilp help you with versioning and stuff:
 + `bump-module-version.sh`
 + `generate-changelog.sh`
 
 ---
-`bump-module-version.sh`  Used for bumping versions in desired file (__1.4 => 1.5__, __1.4 => 2__ and so on). 
+`bump-module-version.sh` Used for bumping versions in desired file (__1.4 => 1.5__, __1.4 => 2__ and so on). 
 
 Uses [bumpversion](https://pypi.org/project/bumpversion/) under the hood.
+
+```
+./bump-module-version.sh examples/package.json patch
+```
+
+<img 
+  src="./images/bump-version.png" 
+  alt="" 
+/>
+
 
 *Demonstration*
 
