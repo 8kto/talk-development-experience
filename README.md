@@ -10,8 +10,7 @@ All the snippets are available on my GitHub repo: [https://github.com/8kto/dev-s
 
 
 ## Demo
-TODO
-Check [presentation slides]() deployed to GitHub Pages.
+Check [presentation slides](https://8kto.github.io/talk-development-experience) deployed to GitHub Pages.
 
 
 ## Install
