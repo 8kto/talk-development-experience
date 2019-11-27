@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/dx-talk",
+  pathPrefix: "/talk-development-experience",
   siteMetadata: {
     name: `Igor Ivlev`,
     title: `Improving yor Development eXperience — Talk`,
