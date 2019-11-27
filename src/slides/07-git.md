@@ -57,9 +57,6 @@ Another small script eases tedious committing of not-so-important files.
 
 
 ---
-# How it works
-<video controls autoplay>
-  <source src="semantic-commits.mkv" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+# Semantic commits
+Use [git-cz](https://github.com/commitizen/cz-cli) tool for maintaining semantic versioning/releases of your project.
++ Semantic commits messages: see [Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) by Angular team for understanding how it looks like.
